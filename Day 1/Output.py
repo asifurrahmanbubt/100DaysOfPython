@@ -1,0 +1,5 @@
+print(3)
+print(232)
+print("String")
+print(2+3)
+print(3/3)
